@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/chess-organizer.iml" filepath="$PROJECT_DIR$/.idea/chess-organizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chess-orginaer/chess-orginaer.iml" filepath="$PROJECT_DIR$/chess-orginaer/chess-orginaer.iml" />
+    </modules>
+  </component>
+</project>
